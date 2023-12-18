@@ -4,6 +4,8 @@ Coding exercise to showcase my ability to bring basic skills in HTML, CSS, and J
 
 Exercise objective is to create a web page with two eyes that will follow your mouse movement.
 
+INSTRUCTIONS TO RUN THE EXERCISE: Download the Zip file then be sure to extract all the files. Once extracted, you just need to open the HTML file in your browser. *NOTE - If you have GitHub Desktop downloaded on your device you can open the repository using desktop without the need to extract the files.
+
 LICENSE MIT License
 
 Copyright (c) 2020 John Williams
