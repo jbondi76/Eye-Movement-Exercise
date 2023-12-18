@@ -1,4 +1,5 @@
 # Eye-Movement-Exercise
+<img src= "eyesthumb" width='300'/>
 
 Coding exercise to showcase my ability to bring basic skills in HTML, CSS, and JavaScript together.
 
